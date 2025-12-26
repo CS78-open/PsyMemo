@@ -21,9 +21,10 @@ description:
     Genera promemoria intelligenti per l'aderenza terapeutica sfruttando l'IA e Google Calendar.
     L'applicazione non salva dati sensibili (GDPR compliant by design) e genera link diretti per WhatsApp e Calendar.
 legal:
-  license: MIT
+  license: EUPL-1.2
   mainCopyrightOwner: Marco Pingitore
   repoOwner: Marco Pingitore
 intendedAudience:
   scope:
     - healthcare
+    - public-administration

@@ -1,0 +1,29 @@
+# This file describes the software according to the publiccode.yml standard.
+publiccodeYmlVersion: '0.2'
+name: PsyMemo
+url: 'https://github.com/TUO_USERNAME/psymemo'
+landingURL: 'https://psymemo.streamlit.app'
+softwareVersion: '2.2'
+releaseDate: '2025-12-26'
+logo: 'logo.png'
+platforms:
+  - web
+categories:
+  - healthcare
+  - medical-specialties
+usedBy:
+  - Marco Pingitore
+developmentStatus: stable
+softwareType: standalone/web
+description:
+  it: |
+    PsyMemo è uno strumento di supporto per psichiatri e medici specialisti.
+    Genera promemoria intelligenti per l'aderenza terapeutica sfruttando l'IA e Google Calendar.
+    L'applicazione non salva dati sensibili (GDPR compliant by design) e genera link diretti per WhatsApp e Calendar.
+legal:
+  license: MIT
+  mainCopyrightOwner: Marco Pingitore
+  repoOwner: Marco Pingitore
+intendedAudience:
+  scope:
+    - healthcare
